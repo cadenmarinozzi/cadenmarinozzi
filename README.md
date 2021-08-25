@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [PiMicroProcessing](https://github.com/nekumelon/PiMicroProcessing)
 
-- 👯 I’m looking to collaborate on **PiJarvis**
-
 - 💬 Ask me about **Lua VM**
 
 - 📫 How to reach me **nekumelon@gmail.com**
