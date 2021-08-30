@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm nekumelon</h1>
-<h3 align="center">Python/C++/Lua/Javascript programmer focused on home automation and miscellaneous software enginereering.</h3>
+<h3 align="center">Python/C++/Lua/JavaScript programmer focused on home automation and miscellaneous software enginereering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekuemlon&label=Profile%20views&color=0e75b6&style=flat" alt="nekuemlon" /> </p>
 
-- 🔭 I’m currently working on [PiMicroProcessing](https://github.com/nekumelon/PiMicroProcessing)
-
-- 💬 Ask me about **Lua VM**
+- 🔭 I’m currently working on [J.A.R.V.I.S](https://github.com/nekumelon/J.A.R.V.I.S)
 
 - 📫 How to reach me **nekumelon@gmail.com**
 
