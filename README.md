@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekuemlon&label=Profile%20views&color=0e75b6&style=flat" alt="nekuemlon" /> </p>
 
-- 🔭 I’m currently working on [Jarvis](https://github.com/nekumelon/Jarvis) (Currently private)
+- 🔭 I’m currently working on [Jarvis](https://github.com/nekumelon/Jarvis)
 
 - 📫 How to reach me **nekumelon@gmail.com**
 
