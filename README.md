@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nekumelon</h1>
-<h3 align="center">I'm a Python/C++/Lua/JavaScript programmer focused on home automation and miscellaneous software enginereering.</h3>
+<h3 align="center">I'm a Python/C++/Lua/JavaScript programmer who loves making open source projects for people to use on the go.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nekuemlon&label=Profile%20views&color=0e75b6&style=flat" alt="nekuemlon" /> </p>
 
