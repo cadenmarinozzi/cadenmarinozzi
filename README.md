@@ -1,7 +1,8 @@
-```
+```python
 def introduction():
     print("Hey! I'm nekumelon, a developer who loves to create open source projects for people to use on the go.");
-
+```
+```javascript
 function aboutMe() {
     let username = "nekumelon";
     let age = "14";
@@ -9,7 +10,8 @@ function aboutMe() {
     let education = "High School & Community College";
     let interests = "Computer Science, Math, Physics";
 }
-
+```
+```lua
 function programming()
     local languages = {
         "Front End" = {
@@ -29,7 +31,8 @@ function programming()
         }
     };
 end
-
+```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -41,7 +44,8 @@ void contacts() {
     string github = "https://www.github.com/nekumelon";
     string twitter = "https://www.twitter.com/nekumelon";
 }
-
+```
+```python
 def current():
     workingOn = "https://www.twitter.com/nekumelon/Jarvis";
     learning = "Data structures and algorithms";
