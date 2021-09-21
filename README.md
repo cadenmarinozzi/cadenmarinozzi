@@ -14,18 +14,18 @@ function aboutMe() {
 ```lua
 function programming()
     local languages = {
-        "Front End" = {
+        ["Front End"] = {
             "JavaScript",
             "TypeScript",
             "CSS",
             "HTML"
         },
-        "Back End" = {
+        ["Back End"] = {
             "Python",
             "Node.js",
             "Express"
         },
-        "Other" = {
+        ["Other"] = {
             "Electron",
             "C++"
         }
