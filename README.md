@@ -50,6 +50,7 @@ def current():
     workingOn = "https://www.twitter.com/nekumelon/Jarvis";
     learning = "Data structures and algorithms";
 ```
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nekuemlon&label=Profile%20views&color=0e75b6&style=flat" alt="nekumelon" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekumelon&show_icons=true&locale=en&layout=compact" alt="nekumelon" /></p>
