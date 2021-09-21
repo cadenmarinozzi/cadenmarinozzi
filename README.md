@@ -52,9 +52,6 @@ def current():
 ```
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nekuemlon&label=Profile%20views&color=0e75b6&style=flat" alt="nekumelon" /></p>
-<br/><br/><br/><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nekumelon&show_icons=true&locale=en&layout=compact" alt="nekumelon" /></p>
-<br/><br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekumelon&show_icons=true&locale=en" alt="nekumelon" /></p>
-<br/><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nekumelon&" alt="nekumelon" /></p>
