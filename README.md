@@ -47,7 +47,7 @@ void contacts() {
 ```
 ```python
 def current():
-    workingOn = "https://www.twitter.com/nekumelon/Jarvis";
+    workingOn = "https://www.github.com/nekumelon/Jarvis";
     learning = "Data structures and algorithms";
 ```
 
