@@ -8,7 +8,7 @@ function aboutMe() {
     let age = "14";
     let gender = "Male, He/Him";
     let education = "High School & Community College";
-    let interests = "Computer Science, Math, Physics";
+    let interests = "Computer Science, Engineering, Math, Physics, Mechanical Keyboards";
 }
 ```
 ```lua
