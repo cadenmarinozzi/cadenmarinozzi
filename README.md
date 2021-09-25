@@ -51,7 +51,7 @@ def current():
     learning = "Data structures and algorithms";
 ```
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=nekuemlon&label=Profile%20views&color=0e75b6&style=flat" alt="nekumelon" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekumelon&langs_count=5&theme=light" alt="nekumelon" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nekumelon&show_icons=true&locale=en&layout=compact" alt="nekumelon" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=nekumelon&show_icons=true&locale=en" alt="nekumelon" /></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nekumelon&" alt="nekumelon" /></p>
