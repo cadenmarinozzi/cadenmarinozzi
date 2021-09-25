@@ -27,7 +27,12 @@ function programming()
         },
         ["Other"] = {
             "Electron",
-            "C++"
+            "C++",
+            "Lua"
+        },
+        ["Preferred"] = {
+            "Python",
+            "JavaScript"
         }
     };
 end
