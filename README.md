@@ -9,6 +9,7 @@ function aboutMe() {
     let gender = "Male, He/Him";
     let education = "High School & Community College";
     let interests = "Computer Science, Engineering, Math, Physics, Mechanical Keyboards, Japanese";
+    let favoriteSong = "The Man Who Sold The World - Nirvana";
 }
 ```
 ```lua
