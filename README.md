@@ -29,7 +29,8 @@ function programming()
         ["Other"] = {
             "Electron",
             "C++",
-            "Lua"
+            "Lua",
+            "Go"
         },
         ["Preferred"] = {
             "Python",
