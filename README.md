@@ -54,7 +54,7 @@ void contacts() {
 ```python
 def current():
     workingOn = "https://www.github.com/nekumelon/Jarvis";
-    learning = "Data structures and algorithms";
+    learning = "Go";
 ```
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nekuemlon&label=Profile%20views&color=0e75b6&style=flat" alt="nekumelon" /></p>
