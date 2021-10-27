@@ -54,7 +54,7 @@ void contacts() {
 ```
 ```python
 def current():
-    workingOn = "https://www.github.com/nekumelon/Jarvis";
+    workingOn = "https://www.github.com/nekumelon/Jarvis, https://www.github.com/nekumelon/DesktopView";
     learning = "Go";
 ```
 
