@@ -19,18 +19,19 @@ function programming()
             "JavaScript",
             "TypeScript",
             "CSS",
-            "HTML"
+            "HTML",
+            "React"
         },
         ["Back End"] = {
             "Python",
             "Node.js",
-            "Express"
+            "Express",
+            "Go"
         },
         ["Other"] = {
             "Electron",
             "C++",
-            "Lua",
-            "Go"
+            "Lua"
         },
         ["Preferred"] = {
             "Python",
@@ -54,8 +55,8 @@ void contacts() {
 ```
 ```python
 def current():
-    workingOn = "https://www.github.com/nekumelon/Jarvis, https://www.github.com/nekumelon/DesktopView";
-    learning = "Go";
+    workingOn = "";
+    learning = "React";
 ```
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nekuemlon&label=Profile%20views&color=0e75b6&style=flat" alt="nekumelon" /></p>
