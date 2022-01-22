@@ -1,65 +1,67 @@
-```python
-def introduction():
-    print("Hey! I'm nekumelon, a developer who loves to create open source projects for people to use on the go.");
-```
-```javascript
-function aboutMe() {
-    let username = "nekumelon";
-    let age = "14";
-    let gender = "Male, He/Him";
-    let education = "High School & Community College";
-    let interests = "Computer Science, Engineering, Math, Physics, Mechanical Keyboards, Japanese";
-    let favoriteSong = "The Man Who Sold The World - Nirvana";
-}
-```
-```lua
-function programming()
-    local languages = {
-        ["Front End"] = {
-            "JavaScript",
-            "TypeScript",
-            "CSS",
-            "HTML",
-            "React"
-        },
-        ["Back End"] = {
-            "Python",
-            "Node.js",
-            "Express",
-            "Go"
-        },
-        ["Other"] = {
-            "Electron",
-            "C++",
-            "Lua"
-        },
-        ["Preferred"] = {
-            "Python",
-            "JavaScript"
-        }
-    };
-end
-```
-```cpp
+
+```c++
 #include <iostream>
 using namespace std;
 
-void contacts() {
-    string email = "nekumelon@gmail.com";
-    string youtube = "https://www.youtube.com/channel/UCsJadfwM6nxj7F7ni4zht_g";
-    string twitch = "https://www.twitch.tv/nekumelon";
-    string reddit = "https://www.reddit.com/user/nekumelon";
-    string github = "https://www.github.com/nekumelon";
-    string twitter = "https://www.twitter.com/nekumelon";
+int main()
+{
+    printf("Welcome to my GitHub profile");
+
+    return 0;
 }
+
 ```
-```python
-def current():
-    workingOn = "";
-    learning = "React";
+Here's a bit (More like 1816 bits) about me:
+```js
+// About me
+const username = 'nekumelon';
+const gender = 'Male';
+let interests = 'Computer Science, Physics (Mainly Astrophysics) Engineering, Math and Mechanical Keyboards';
+let education = 'High School & Community College';
 ```
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=nekuemlon&label=Profile%20views&color=0e75b6&style=flat" alt="nekumelon" /></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekumelon&amp;langs_count=5&amp;theme=light" alt="nekumelon" /></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=nekumelon&show_icons=true&locale=en" alt="nekumelon" /></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nekumelon&" alt="nekumelon" /></p>
+I code with <a href='https://code.visualstudio.com/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png' width=25px height=25px align='center'></a> And I use <a href='https://git-scm.com/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Git-icon-black.svg/1024px-Git-icon-black.svg.png' width=25px height=25px align='center'></a> for SCM. My repositories are hosted on <a href='https://github.com/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png' width=25px height=25px align='center'></a> (Obviously). 
+
+```python
+languages = {
+	# Mainly used
+	'JavaScript',
+	'Go',
+	'Python',
+	'Lua',
+	
+	# Used sometimes
+	'C++',
+	'TypeScript',
+	'C',
+	'php',
+
+	'HTML',
+	'CSS',
+	'MD',
+	'React',
+	'Bootstrap',
+
+	# Other
+	'NodeJS',
+	'Express',
+	'Electron',
+};
+```
+
+```Lua
+local other = {
+	indentation = '\t', -- Why would you want to spend extra time clicking space 2-8 times?????
+	case = 'camelCase, snake_case', -- Never PascalCase...
+	vscodeTheme = 'Rose Pine Next', -- https://github.com/csilva2810/rose-pine-next
+	learning = 'Machine Learning',
+	workingOn = 'https://github.com/nekumelon/SonOfAnton'
+};
+```
+
+# Contacts
+<a href='https://www.reddit.com/user/nekumelon'><img src='https://www.logo.wine/a/logo/Reddit/Reddit-Logomark-Color-Logo.wine.svg' width=30px height=30px align='center'> u/nekumelon</a>
+<a href='https://www.twitter.com/nekumelon'><img src='https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/172px-Twitter_bird_logo_2012.svg.png' width=25px height=20px align='center'> nekumelon (Barely used)</a>
+<a href='https://www.youtube.com/nekumelon'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1920px-YouTube_full-color_icon_%282017%29.svg.png' width=30px height=20px align='center'> nekumelon</a>
+<a href='https://www.twitch.tv/nekumelon'><img src='https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png' width=25px height=25px align='center'> ttv/nekumelon (Barely used)</a>
+<a href='https://mail.google.com/mail/?view=cm&fs=1&to=nekumelon@gmail.com'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png' width=25px align='center'> nekumelon@gmail.com</a>
