@@ -63,3 +63,4 @@ def current():
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekumelon&amp;langs_count=5&amp;theme=light" alt="nekumelon" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=nekumelon&show_icons=true&locale=en" alt="nekumelon" /></p>
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nekumelon&" alt="nekumelon" /></p>
+[![Repo Size](https://lying-emphasized-cathedral.glitch.me/index.svg)](https://github.com/nekumelon/SonOfAnton)
