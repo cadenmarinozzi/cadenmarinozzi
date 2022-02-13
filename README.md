@@ -55,7 +55,7 @@ local other = {
 	case = 'camelCase, snake_case', -- Never PascalCase...
 	vscodeTheme = 'Rose Pine Next', -- https://github.com/csilva2810/rose-pine-next
 	learning = 'Machine Learning',
-	workingOn = 'https://github.com/nekumelon/SonOfAnton'
+	workingOn = 'https://github.com/nekumelon/SonOfAnton, https://github.com/nekumelon/crackcat'
 };
 ```
 
