@@ -46,6 +46,7 @@ languages = {
 	'NodeJS',
 	'Express',
 	'Electron',
+	'React'
 };
 ```
 
