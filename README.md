@@ -23,7 +23,7 @@ let education = 'High School & Community College';
 I code with <a href='https://code.visualstudio.com/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png' width=25px height=25px align='center'></a> And I use <a href='https://git-scm.com/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Git-icon-black.svg/1024px-Git-icon-black.svg.png' width=25px height=25px align='center'></a> for SCM. My repositories are hosted on <a href='https://github.com/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png' width=25px height=25px align='center'></a> (Obviously). 
 
 ```python
-languages = {
+languages = [
 	# Mainly used
 	'JavaScript',
 	'Go',
@@ -47,7 +47,7 @@ languages = {
 	'Express',
 	'Electron',
 	'React'
-};
+];
 ```
 
 ```Lua
@@ -55,8 +55,8 @@ local other = {
 	indentation = '\t', -- Why would you want to spend extra time clicking space 2-8 times?????
 	case = 'camelCase, snake_case', -- Never PascalCase...
 	vscodeTheme = 'Rose Pine Next', -- https://github.com/csilva2810/rose-pine-next
-	learning = 'Machine Learning',
-	workingOn = 'https://github.com/nekumelon/SonOfAnton, https://github.com/nekumelon/crackcat'
+	learning = 'AI',
+	workingOn = 'Floating around projects'
 };
 ```
 
