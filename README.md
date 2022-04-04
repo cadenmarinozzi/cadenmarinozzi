@@ -28,25 +28,27 @@ languages = [
 	'JavaScript',
 	'Go',
 	'Python',
-	'Lua',
+	'React',
 	
 	# Used sometimes
 	'C++',
 	'TypeScript',
 	'C',
 	'php',
+	'Lua',
 
 	'HTML',
 	'CSS',
-	'MD',
-	'React',
+	'md',
+	'yaml',
 	'Bootstrap',
 
 	# Other
 	'NodeJS',
 	'Express',
 	'Electron',
-	'React'
+	'React',
+	'firebase'
 ];
 ```
 
