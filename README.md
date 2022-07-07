@@ -63,7 +63,6 @@ local other = {
 ```
 
 # Contacts
-<a href='https://www.reddit.com/user/nekumelon'><img src='https://www.logo.wine/a/logo/Reddit/Reddit-Logomark-Color-Logo.wine.svg' width=30px height=30px align='center'> u/nekumelon</a>
 <a href='https://www.twitter.com/nekumelon'><img src='https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/172px-Twitter_bird_logo_2012.svg.png' width=25px height=20px align='center'> nekumelon (Barely used)</a>
 <a href='https://www.youtube.com/nekumelon'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1920px-YouTube_full-color_icon_%282017%29.svg.png' width=30px height=20px align='center'> nekumelon</a>
 <a href='https://www.twitch.tv/nekumelon'><img src='https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png' width=25px height=25px align='center'> ttv/nekumelon (Barely used)</a>
