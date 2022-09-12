@@ -29,25 +29,24 @@ languages = [
 	'Go',
 	'Python',
 	'React',
+	'Lua',
 	
 	# Used sometimes
 	'C++',
 	'TypeScript',
 	'C',
 	'php',
-	'Lua',
 
+	# Other
 	'HTML',
 	'CSS',
 	'md',
 	'yaml',
-	'Bootstrap',
 
-	# Other
+	# Technologies
 	'NodeJS',
 	'Express',
 	'Electron',
-	'React',
 	'firebase'
 ];
 ```
@@ -57,8 +56,8 @@ local other = {
 	indentation = '\t', -- Why would you want to spend extra time clicking space 2-8 times?????
 	case = 'camelCase, snake_case', -- Never PascalCase...
 	vscodeTheme = 'Rose Pine Next', -- https://github.com/csilva2810/rose-pine-next
-	learning = 'AI',
-	workingOn = 'Floating around projects'
+	learning = 'Multi Variable Calculus Geometric Proofs',
+	workingOn = 'GetTam-React & Interami'
 };
 ```
 
