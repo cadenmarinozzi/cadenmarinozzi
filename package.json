@@ -1,0 +1,22 @@
+{
+  "name": "readme-quotes",
+  "displayName": "README Quotes",
+  "version": "1.0.0",
+  "description": "Chooses a random quote out of a list of quotes on each request and sends it as an SVG",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "engines": {
+    "node": "8.6.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20",
+    "text-svg": "^1.0.4"
+  }
+}
