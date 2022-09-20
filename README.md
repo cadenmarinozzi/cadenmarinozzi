@@ -1,43 +1,16 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2022%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--284%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    92 commits     ███████░░░░░░░░░░░░░░░░░░   29.02% 
-🌆 Daytime    68 commits     █████░░░░░░░░░░░░░░░░░░░░   21.45% 
-🌃 Evening    151 commits    ████████████░░░░░░░░░░░░░   47.63% 
+🌞 Morning    92 commits     ███████░░░░░░░░░░░░░░░░░░   28.93% 
+🌆 Daytime    68 commits     █████░░░░░░░░░░░░░░░░░░░░   21.38% 
+🌃 Evening    152 commits    ████████████░░░░░░░░░░░░░   47.8% 
 🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
 
 ```
-📅 **I'm Most Productive on Monday** 
 
-```text
-Monday       83 commits     ██████░░░░░░░░░░░░░░░░░░░   26.18% 
-Tuesday      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
-Wednesday    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
-Thursday     20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.31% 
-Friday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
-Saturday     50 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
-Sunday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.14%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -56,7 +29,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nekumelon/nekumelon/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2022 02:25:44 UTC
+ Last Updated on 20/09/2022 02:37:23 UTC
 <!--END_SECTION:waka-->
 ## Quote of the day:
 ---
