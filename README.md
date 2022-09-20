@@ -1,10 +1,6 @@
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
 ## Quote of the day:
 ---
 <img src="https://nekumelon-readme.herokuapp.com/quote" alt="&quot'This quote did not load for some reason... Probably bad servers tbh.&quot - nekumelon">
