@@ -31,9 +31,7 @@ let education = 'High School & Community College';
 
 ## Languages: 
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433' width=50 height=50 />
-<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029' width=50 height=50 />
-<img src='https://www.andreas-rozek.de/Lua/Lua-Logo_128x128.png' width=50 height=50 />
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433' width=50 height=50 /><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029' width=50 height=50 /><img src='https://www.andreas-rozek.de/Lua/Lua-Logo_128x128.png' width=50 height=50 />
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png?20191207190041' height=50 />
 <img src='https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png' height=50 />
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20210506173343' height=50 width=50 />
