@@ -38,7 +38,7 @@ let education = 'High School & Community College';
 
 ```lua
 local learning = 'Volumetric Multi Variable Calculus Geometric Proofs';
-local workingOn = 'GetTam-React & Interami';
+local workingOn = 'ShortLinked & Interami';
 ```
 
 ---
