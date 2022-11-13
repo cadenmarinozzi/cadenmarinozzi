@@ -35,13 +35,6 @@ let education = 'High School & Community College';
 <img src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' height=50 width=50 /><img src='https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png' height=50 width=50 /><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png' height=50 width=50 /><img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' height=50 /><img src='https://cdn-icons-png.flaticon.com/512/5968/5968705.png' height=50 />
 
 ---
-
-```lua
-local learning = 'Volumetric Multi Variable Calculus Geometric Proofs';
-local workingOn = 'ShortLinked & Interami';
-```
-
----
 ## Contacts
 ---
 Email: nekumelon@gmail.com
