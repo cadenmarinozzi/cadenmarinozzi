@@ -38,3 +38,4 @@ let education = 'High School & Community College';
 ## Contacts
 ---
 Email: nekumelon@gmail.com
+Linkedin: linkedin.com/in/caden-m
