@@ -14,8 +14,14 @@
 ```js
 const username = 'nekumelon';
 const gender = 'Male';
-let interests = 'Anything nerdy';
-let education = 'High School & Community College';
+let interests = [
+  'Software Engineering',
+  'Physics',
+  'Math',
+  'Photography',
+  'Bodybuilding',
+  'Design'
+];
 ```
 
 ---
