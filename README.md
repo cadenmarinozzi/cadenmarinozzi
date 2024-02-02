@@ -8,7 +8,7 @@
 ---
 
 ```js
-const username = 'nekumelon';
+const name = 'Caden Marinozzi';
 const gender = 'Male';
 let interests = [
   'Software Engineering',
