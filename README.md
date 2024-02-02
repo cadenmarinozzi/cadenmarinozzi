@@ -1,9 +1,3 @@
-## Quote of the day:
----
-<img src="https://nekumelon-readme.herokuapp.com/quote" alt="&quot'This quote did not load for some reason... Probably bad servers tbh.&quot - nekumelon">
-
----
-
 <img src='https://raw.githubusercontent.com/nekumelon/github-stats-transparent/output/generated/languages.svg' />
 <img src='https://raw.githubusercontent.com/nekumelon/github-stats-transparent/output/generated/overview.svg' />
 
