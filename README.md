@@ -1,4 +1,4 @@
-<a href='https://cadenmarinozzi.me/static/media/Resume.85df1ad74e3e14eadce7.pdf'> Click for resume </a>
+<a href='./Copy of Resume.pdf'> Click for resume </a>
 
 <img src='https://raw.githubusercontent.com/nekumelon/github-stats-transparent/output/generated/languages.svg' />
 <img src='https://raw.githubusercontent.com/nekumelon/github-stats-transparent/output/generated/overview.svg' />
