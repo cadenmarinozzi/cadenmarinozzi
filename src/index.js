@@ -9,7 +9,7 @@ app.get('*', async (req, res) => {
 	// Get quotes every request so that the quotes refresh every time
 	const quotes = (
 		await axios.get(
-			'https://raw.githubusercontent.com/nekumelon/nekumelon/main/quotes.txt'
+			'https://raw.githubusercontent.com/cadenmarinozzi/cadenmarinozzi/main/quotes.txt'
 		)
 	).data.split('\n');
 	const quote = quotes[Math.floor(Math.random() * quotes.length)];
