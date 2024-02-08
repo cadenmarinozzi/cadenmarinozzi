@@ -1,7 +1,7 @@
 <a href='./Copy of Resume.pdf'> Click for resume </a>
 
-<img src='https://raw.githubusercontent.com/nekumelon/github-stats-transparent/output/generated/languages.svg' />
-<img src='https://raw.githubusercontent.com/nekumelon/github-stats-transparent/output/generated/overview.svg' />
+<img src='https://raw.githubusercontent.com/cadenmarinozzi/github-stats-transparent/output/generated/languages.svg' />
+<img src='https://raw.githubusercontent.com/cadenmarinozzi/github-stats-transparent/output/generated/overview.svg' />
 
 ---
 ## Who am I?
