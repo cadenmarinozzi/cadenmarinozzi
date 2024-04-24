@@ -5,7 +5,6 @@
 
 ---
 ## Who am I?
----
 
 ```js
 const name = 'Caden Marinozzi';
@@ -22,7 +21,6 @@ let interests = [
 
 ---
 ## Skills/Technologies
----
 
 ## Languages: 
 
@@ -39,7 +37,7 @@ let interests = [
 
 ---
 ## Contacts
----
+
 Email: nekumelon@gmail.com
 
 Personal Email: cadenmarinozzi@gmail.com
