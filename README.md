@@ -14,7 +14,6 @@ let interests = [
   'Physics',
   'Math',
   'Photography',
-  'Bodybuilding',
   'Design'
 ];
 ```
