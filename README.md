@@ -34,9 +34,7 @@ let interests = [
 ---
 ## Contacts
 
-Email: nekumelon@gmail.com
-
-Personal Email: cadenmarinozzi@gmail.com
+Email: cadenmarinozzi@gmail.com
 
 [Linkedin](https://linkedin.com/in/caden-m)
 
