@@ -1,5 +1,3 @@
-<a href='./Copy of Resume.pdf'> Click for resume </a>
-
 ---
 ## Who am I?
 
