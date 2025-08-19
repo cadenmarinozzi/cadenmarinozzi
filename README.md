@@ -4,7 +4,6 @@
 
 ```js
 const name = 'Caden Marinozzi';
-const gender = 'Male';
 let interests = [
   'Software Engineering',
   'Physics',
