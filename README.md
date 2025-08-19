@@ -1,3 +1,4 @@
+<a target="_blank" rel="noopener noreferrer" href='./Caden Marinozzi Full Stack Software Engineer Resume.pdf'>Click for Resume</a>
 
 ## Who am I?
 
