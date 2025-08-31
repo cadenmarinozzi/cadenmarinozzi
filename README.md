@@ -30,14 +30,14 @@
 ```js
 const name = 'Caden Marinozzi';
 
-console.log(```Hey! I'm Caden,
+console.log(`Hey! I'm Caden,
 a software engineer with more than half a decade of experience
 building scalable web applications and resilient backend systems,
 leading teams, and creating AI-driven solutions
 used by tens of thousands of users.
 I am a Computer Science undergraduate student at Santa Clara University,
 where I intend to study high energy astrophysics,
-and build apps and products people will love.```);
+and build apps and products people will love.`);
 
 let currentlyWorkingOn = {
   name: 'SPARC',
